@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> Meu nome é Aline Mariah, ainda sou uma Dev baby em criação, estudando ativamente na Aceleradora Inclusiva e Cursando ADS</p>
+<p align="left"> Meu nome é Aline Mariah, ainda sou uma Dev baby em criação, estudando na Aceleradora Inclusiva e Cursando ADS</p>
 
 ###
 
