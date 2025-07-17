@@ -15,7 +15,7 @@
 
 <h2 align="left"> Já aprendi ... e continuo aprendendo</h2>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -30,4 +30,6 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/aalinemariah/aalinemariah/output/snake.svg" alt="Snake animation" />
 
