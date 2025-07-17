@@ -11,7 +11,7 @@
 ###
 
 <p align="left">✨ Estou Criando desde maio/2025 <br>📚 Estudando Desenvolvimento Web e ADS <br>
-###
+
 
 <h2 align="left"> Já aprendi ... e continuo aprendendo</h2>
 
@@ -31,6 +31,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/aalinemariah/aalinemariah/output/snake.svg" alt="Snake animation" />
 
-###
