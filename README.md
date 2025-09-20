@@ -30,7 +30,7 @@
 </div>
 <div>
 
-<img src="https://raw.githubusercontent.com/aalinemariah/aalinemariah/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/aalinemariah/aalinemariah/output/github-contribution-grid-snake.svg)
 
 </div>
 ###
