@@ -1,43 +1,49 @@
-<h1 align="left">Olá, 👋 Como vai?! </h1>
+# Olá, 👋 Como vai?
 
-###
+Meu nome é **Aline Mariah**  
+Sou uma *Dev baby* em formação 💻✨  
+Atualmente estudo na **Aceleradora Inclusiva** e curso **Análise e Desenvolvimento de Sistemas (ADS)**.  
 
-<p align="left"> Meu nome é Aline Mariah, ainda sou uma Dev baby em criação, estudando na Aceleradora Inclusiva e Cursando ADS</p>
+---
 
-###
+## 🌟 Sobre Mim
+- ✨ Comecei minha jornada em **maio/2025**  
+- 📚 Estudando **Desenvolvimento Web** e **ADS**  
+- 💡 Apaixonada por aprender coisas novas e transformar ideias em código  
+- 🎯 Focada em crescer como desenvolvedora e compartilhar meu progresso  
 
-<h2 align="left">Sobre Mim</h2>
+---
 
-###
+## 🛠️ Tecnologias que já aprendi (e sigo aprendendo)
 
-<p align="left">✨ Estou Criando desde maio/2025 <br>📚 Estudando Desenvolvimento Web e ADS <br>
-
-
-<h2 align="left"> Já aprendi ... e continuo aprendendo</h2>
-
-
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
-<div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+</p>
 
 <img src= "https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"> 
 
-</div>
+## 📫 Onde me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/) -> https://www.linkedin.com/in/aalinemariah/  
+- 📝 Aqui no **GitHub**, compartilhando meu aprendizado  
 
-finalmente me encontrei, estou na construção de um sonho e em busca de melhor qualidade de vida ❤
+---
+
+✨ Obrigada por visitar meu perfil!  
+Sinta-se à vontade para acompanhar minha evolução 🚀
 
 
+###
+
+<picture>
+ <img src= "https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+</picture>
+
+###
