@@ -15,7 +15,8 @@ Cursando 2° Semestre em **Análise e Desenvolvimento de Sistemas (ADS)**.
 - ✨ Comecei minha jornada em **maio/2025** 
 - 📚 Estudando **Desenvolvimento Web** (concluído) e **ADS**  
 - 💡 Apaixonada por aprender coisas novas e transformar ideias em código  
-- 🎯 Focada em crescer como desenvolvedora e compartilhar meu progresso  
+- 🎯 Focada em crescer como desenvolvedora e compartilhar meu progresso
+- 🖌 Muito amor em Product Designer ( UI E UX )
 
 ---
 
