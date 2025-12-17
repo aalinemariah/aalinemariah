@@ -3,13 +3,14 @@
 
 Meu nome é **Aline Mariah**  
 Sou uma *Dev baby* em formação 💻✨  
-Atualmente estudo na **Aceleradora Inclusiva** e curso **Análise e Desenvolvimento de Sistemas (ADS)**.  
+Concluí o Curso de Desenvolvimento Web e programação na **Aceleradora Inclusiva** em Dez. 2025
+Cursando 2° Semestre em **Análise e Desenvolvimento de Sistemas (ADS)**.  
 
 ---
 
 ## 🌟 Sobre Mim
-- ✨ Comecei minha jornada em **maio/2025**  
-- 📚 Estudando **Desenvolvimento Web** e **ADS**  
+- ✨ Comecei minha jornada em **maio/2025** 
+- 📚 Estudando **Desenvolvimento Web** (concluído) e **ADS**  
 - 💡 Apaixonada por aprender coisas novas e transformar ideias em código  
 - 🎯 Focada em crescer como desenvolvedora e compartilhar meu progresso  
 
