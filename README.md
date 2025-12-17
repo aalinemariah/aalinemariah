@@ -2,8 +2,11 @@
 # Olá, 👋 Como vai?
 
 Meu nome é **Aline Mariah**  
+
 Sou uma *Dev baby* em formação 💻✨  
+
 Concluí o Curso de Desenvolvimento Web e programação na **Aceleradora Inclusiva** em Dez. 2025
+
 Cursando 2° Semestre em **Análise e Desenvolvimento de Sistemas (ADS)**.  
 
 ---
