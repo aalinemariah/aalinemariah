@@ -17,6 +17,7 @@ Cursando 2° Semestre em **Análise e Desenvolvimento de Sistemas (ADS)**.
 - 💡 Apaixonada por aprender coisas novas e transformar ideias em código  
 - 🎯 Focada em crescer como desenvolvedora e compartilhar meu progresso
 - 🖌 Muito amor em Product Designer ( UI & UX )
+- 🎨 Criatividade aflorada - praticante de Figma (foi amor a primeira vista)
 
 ---
 
